@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe app REST APIs.
+API service for recipe app using Django rest framework.
